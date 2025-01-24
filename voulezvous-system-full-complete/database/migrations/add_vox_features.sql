@@ -1,0 +1,1 @@
+ALTER TABLE cache_lake ADD COLUMN criado_por VARCHAR(255);
